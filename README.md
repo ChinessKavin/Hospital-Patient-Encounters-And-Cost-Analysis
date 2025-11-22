@@ -1,1 +1,1 @@
-# Hospital-Patient-Encounters---Cost-Analysis--SQL--
+# Hospital Patient Encounters And Cost Analysis Using SQL
