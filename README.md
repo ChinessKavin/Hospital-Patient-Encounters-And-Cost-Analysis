@@ -1,6 +1,12 @@
-# Hospital Patient Encounters And Cost Analysis Using SQL
+# Analysis of Hospital Patient Encounters and Cost Metrics Using SQL
+![SQL Badge](https://img.shields.io/badge/SQL-MySQL-blue) 
 
-This project explores hospital patient encounters, costs, and behavior trends using SQL. The goal is to extract actionable insights from hospital encounter and procedure data to understand utilization patterns, cost distribution, and patient behavior over time.
+## About
+This project explores hospital patient encounters, cost metrics, and patient behavior trends using SQL. The analysis focuses on understanding utilization patterns, cost distribution, and readmission trends to inform healthcare operational decisions.  
+
+See my **Medium blog post** for a more concise, narrative-style report: [Medium Blog](https://medium.com/@happinesskanife)  
+
+Inspired by Maven Analytics, all SQL code and analysis were done independently.
 
 ## Analytical Thought Process
 
@@ -71,4 +77,3 @@ This project explores hospital patient encounters, costs, and behavior trends us
 - Most procedures are low-cost, high-frequency, while some are high-cost but less frequent.  
 - Readmissions within 30 days reveal potential care gaps and highlight patients needing attention.  
 - Payer analysis identifies cost distribution across insurance providers.
-
