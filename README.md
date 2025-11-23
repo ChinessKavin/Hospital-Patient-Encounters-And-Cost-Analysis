@@ -6,7 +6,6 @@ This project explores hospital patient encounters, cost metrics, and patient beh
 
 See my **Medium blog post** for a more concise, narrative-style report: [Medium Blog](https://medium.com/@happinesskanife)  
 
-Inspired by Maven Analytics, all SQL code and analysis were done independently.
 
 ## Analytical Thought Process
 
