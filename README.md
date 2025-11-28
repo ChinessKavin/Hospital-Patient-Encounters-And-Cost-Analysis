@@ -2,7 +2,9 @@
 ![SQL Badge](https://img.shields.io/badge/SQL-MySQL-blue) 
 
 ## About
-This project explores hospital patient encounters, cost metrics, and patient behavior trends using SQL. The analysis focuses on understanding utilization patterns, cost distribution, and readmission trends to inform healthcare operational decisions.  
+This project explores hospital patient encounters, cost metrics, and patient behavior trends using SQL. The analysis focuses on understanding utilization patterns, cost distribution, and readmission trends to inform healthcare operational decisions. 
+
+All SQL queries and the complete analysis code are available in my GitHub repository.
 
 See my **Medium blog post** for a more concise, narrative-style report: [Medium Blog](https://medium.com/@happinesskanife)  
 
